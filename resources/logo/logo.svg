@@ -1,0 +1,18 @@
+
+ <svg class="h-16 text-blueGray-700 stroke-current" viewBox="0 0 109.37 56.273" xmlns="http://www.w3.org/2000/svg">
+    <g transform="translate(-45.364 -218.86)" fill="none" stroke-linejoin="round" stroke-width="4">
+        <path d="M81.914 228.91h36.172v36.172H81.914z" />
+        <path d="M80.511 236.97c-13.539-.23-4.64-9.934-19.982-9.934" stroke-miterlimit="40" />
+        <path d="M80.669 247.28L60 247.026" />
+        <circle cx="53.5" cy="227" r="6.136" />
+        <circle cx="53.5" cy="247" r="6.136" />
+        <path d="M80.511 257.03c-13.539.23-4.64 9.934-19.982 9.934" stroke-miterlimit="40" />
+        <circle transform="scale(1 -1)" cx="53.5" cy="-267" r="6.136" />
+        <path d="M119.59 236.97c13.539-.23 4.64-9.934 19.982-9.934" stroke-miterlimit="40" />
+        <path d="M119.43 247.28l20.669-.254" />
+        <circle transform="scale(-1 1)" cx="-146.6" cy="227" r="6.136" />
+        <circle transform="scale(-1 1)" cx="-146.6" cy="247" r="6.136" />
+        <path d="M119.59 257.03c13.539.23 4.64 9.934 19.982 9.934" stroke-miterlimit="40" />
+        <circle transform="scale(-1)" cx="-146.6" cy="-267" r="6.136" />
+    </g>
+  </svg>
